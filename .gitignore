@@ -1,0 +1,6 @@
+.env
+*.db
+*.sql
+Transform_Tests.ipynb
+__pycache__/
+.ipynb_checkpoints/
